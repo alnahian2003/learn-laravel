@@ -12,11 +12,11 @@ Discover a wealth of resources to embark on your journey to master Laravel. From
 
 <summary><h3>Table of Contents</h3></summary>
   
-- [🛤️ Laravel Learning Roadmaps](#-laravel-learning-roadmaps)
+- [🛤️ Laravel Learning Roadmaps](#%EF%B8%8F-laravel-learning-roadmaps)
 - [📺 YouTube Channels](#-youtube-channels)
 - [📚 E-Books](#-e-books)
 - [💻 Online Learning Platforms](#-online-learning-platforms)
-- [🌟 Premium Courses (Personally Recommended)](#-premium-courses-personally-recommended)
+- [🌟 Premium Courses (Personally Recommended)](#-premium-courses-personal-favorites-)
 </details>
 
 
