@@ -123,6 +123,9 @@ Discover high-quality premium courses from reputable educators:
 - ✳️ [Mastering Laravel Query Builder, Eloquent & Relationships](https://www.udemy.com/course/mastering-laravel-10-query-builder-eloquent-relationships)
 
 
+### Ahmed Shamim Hasan Shaon
+- ✳️ [Understanding Laravel](https://learning.megaminds.technology/courses/understanding-laravel/details) (Bengali)
+
 ---
 
 
@@ -138,4 +141,7 @@ Discover high-quality premium courses from reputable educators:
 Don't forget, __the real gem awaits in the [Official Laravel Documentation](https://laravel.com/docs/master/)__ – a true treasure trove for your learning journey. 
 
 
+---
+
+Kindly be advised that the resources provided above are arranged in a randomized manner, without regard to the status or priority of the instructor/educator.
 #HappyCoding
