@@ -12,11 +12,11 @@ Discover a wealth of resources to embark on your journey to master Laravel. From
 
 <summary><h3>Table of Contents</h3></summary>
   
-- [🛤️ Laravel Learning Roadmaps](#laravel-learning-roadmaps)
-- [📺 YouTube Channels](#youtube-channels)
-- [📚 E-Books](#e-books)
-- [💻 Online Learning Platforms](#online-learning-platforms)
-- [🌟 Premium Courses (Personally Recommended)](#premium-courses-personally-recommended)
+- [🛤️ Laravel Learning Roadmaps](#-laravel-learning-roadmaps)
+- [📺 YouTube Channels](#-youtube-channels)
+- [📚 E-Books](#-e-books)
+- [💻 Online Learning Platforms](#-online-learning-platforms)
+- [🌟 Premium Courses (Personally Recommended)](#-premium-courses-personally-recommended)
 </details>
 
 
@@ -44,8 +44,8 @@ Discover a wealth of resources to embark on your journey to master Laravel. From
 - [Laracasts](https://youtube.com/@Laracastsofficial)
 - [Jordan Dalton](https://youtube.com/@Daltoncast)
 - [Codecourse](https://youtube.com/@codecourse)
-- [Megaminds Learning 🇧🇩](https://youtube.com/@MegamindsLearning)
-- [Learn Hunter 🇧🇩](https://youtube.com/@LearnHunter)
+- [Megaminds Learning 🇧🇩](https://youtube.com/@MegamindsLearning) (Bengali)
+- [Learn Hunter 🇧🇩](https://youtube.com/@LearnHunter) (Bengali)
 
 ## 📚 E-Books
 
