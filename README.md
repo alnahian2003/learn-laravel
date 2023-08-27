@@ -1,2 +1,130 @@
-# learn-laravel
-🚀 Dive into Laravel's potential! Discover curated self-learning: tutorials, e-books, videos &amp; courses. From beginner to advanced, just for you! 📚🎥💻
+# 🎢 Laravel Learning Resources
+
+Discover a wealth of resources to embark on your journey to master Laravel. From roadmaps to YouTube channels, and e-books to online courses, this repository is your gateway to self-learning. 🚀
+
+>*Allow me to share my exciting Laravel learning journey with you real quick! I started as a self-motivated learner, but the hunt for good resources took some wind out of my sails. I'm no quitter, though!*
+
+>*Now, if you're eyeing Laravel, I've got your back. I've personally selected some top-notch resources just for you. More will follow – No strings attached, no affiliations whatsoever, I promise. Feel free to show some love by ⭐ starring the repo and sharing it with pals. Let's learn and grow together! 🌟*
+
+<details>
+
+<summary><h3>Table of Contents</h3></summary>
+  
+- [🛤️ Laravel Learning Roadmaps](#laravel-learning-roadmaps)
+- [📺 YouTube Channels](#youtube-channels)
+- [📚 E-Books](#e-books)
+- [💻 Online Learning Platforms](#online-learning-platforms)
+- [🌟 Premium Courses (Personally Recommended)](#premium-courses-personally-recommended)
+</details>
+
+
+## 🛤️ Laravel Learning Roadmaps
+
+✳️ [Laravel Roadmap Learning Path](https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path)
+
+✳️ [Laracasts Learning Path](https://laracasts.com/path)
+
+## 📺 YouTube Channels
+
+📺 Explore these YouTube channels for insightful video content:
+
+- [Laravel](https://youtube.com/@LaravelPHP)
+- [Laravel Daily](https://youtube.com/@LaravelDaily)
+- [Andrew Schemlyun](https://youtube.com/@aschmelyun)
+- [Code With Dary](https://youtube.com/@codewithdary)
+- [Mohamed Said](https://youtube.com/@themsaid)
+- [Mateus Guimaraes](https://youtube.com/@MateusGuimaraes)
+- [Przemyslaw Przylucki](https://youtube.com/@saaslaravel)
+- [Andre Madarang](https://youtube.com/@drehimself)
+- [PHP Annotated](https://youtube.com/@phpannotated)
+- [The Codeholic](https://youtube.com/@phpannotated)
+- [Code With Tony](https://youtube.com/@codewithtonyofficial)
+- [Laracasts](https://youtube.com/@Laracastsofficial)
+- [Jordan Dalton](https://youtube.com/@Daltoncast)
+- [Codecourse](https://youtube.com/@codecourse)
+- [Megaminds Learning 🇧🇩](https://youtube.com/@MegamindsLearning)
+- [Learn Hunter 🇧🇩](https://youtube.com/@LearnHunter)
+
+## 📚 E-Books
+
+📖 Enhance your skills with these insightful e-books:
+
+- [Laravel Up & Running by Matt Stauffer](https://laravelupandrunning.com)
+- [Laravel Secrets by Stefan Bauer & Bobby Bouwmann](https://laravelsecrets.com)
+- [Battle Ready Laravel by Ash Allen](https://battle-ready-laravel.com)
+- [The Clean Coder's Guide to Laravel by Ash Allen](https://ashallendesign.co.uk/blog/the-clean-coders-guide-to-laravel-free-70-page-pdf)
+- [Laravel Beyond CRUD by Spatie](https://laravel-beyond-crud.com)
+- [Event Sourcing in Laravel by Spatie](https://spatie.be/products/event-sourcing-in-laravel)
+- [Mastering Laravel Validation Rules](https://nocompromises.gumroad.com/l/laravel-validation)
+- [Laravel Queues in Action by Mohamed Said](https://learn-laravel-queues.com)
+- [Laravel Concepts by Martin Joo](https://laravel-concepts.io)
+- [Layered Architectures With Laravel by Martin Joo](https://martinjoo.gumroad.com/l/layered-architectures-laravel)
+- [Microservices with Laravel by Martin Joo](https://martinjoo.gumroad.com/l/microservices-with-laravel-basic)
+- [Test Driven APIs With Laravel and Pest by Martin Joo](https://test-driven-api-laravel.io)
+- [Domain Driven Design with Laravel by Martin Joo](https://domain-driven-design-laravel.com)
+- [Advanced Inertia by Boris Lepikhin](https://advanced-inertia.com)
+
+## 💻 Online Learning Platforms
+
+💻 Enhance your skills with these online learning platforms:
+
+- [Laracasts](https://laracasts.com)
+- [Codecourse](https://codecourse.com)
+- [Laravel Daily](https://laraveldaily.com)
+- [Spatie Courses](https://spatie.be/courses)
+- [Beyond Code Courses](https://beyondco.de/video-courses)
+- [Bitfumes](https://bitfumes.com)
+
+## 🌟 Premium Courses (Personal Favorites 😊) 
+
+Discover high-quality premium courses from reputable educators:
+
+### Laravel Daily
+
+- ✳️ [How to Structure Laravel Projects](https://laraveldaily.com/course/structure-laravel-projects)
+- ✳️ [How to Structure Databases in Laravel](https://laraveldaily.com/course/laravel-database-structure)
+- ✳️ [Eloquent: The Expert Level](https://laraveldaily.com/course/eloquent-the-expert-level)
+- ✳️ [How to Create Laravel API](https://laraveldaily.com/course/laravel-api)
+- ✳️ [Laravel Multi-Tenancy: All You Need To Know](https://laraveldaily.com/course/laravel-multi-tenancy)
+- ✳️ [10 Laravel Refactoring Examples](https://laraveldaily.com/course/laravel-refactoring)
+- ✳️ [Laravel Testing For Beginners: PHPUnit, Pest, TDD](https://laraveldaily.com/course/laravel-testing)
+
+### Laracasts
+
+- ✳️ [Eloquent Performance Patterns](https://laracasts.com/series/eloquent-performance-patterns)
+- ✳️ [Laravel Security Through Examples](https://laracasts.com/series/laravel-security-through-examples)
+- ✳️ [Demystify Laravel's Magic](https://laracasts.com/series/demystifying-laravel-magic)
+
+### Codecourse
+
+- ✳️ [Learn Inertia](https://codecourse.com/courses/learn-inertia)
+- ✳️ [Enums in Laravel](https://codecourse.com/courses/enums-in-laravel)
+- ✳️ [Eloquent Relationships By Example](https://codecourse.com/courses/eloquent-relationships-by-example)
+- ✳️ [Build a File Marketplace with Laravel 2023](https://codecourse.com/courses/build-a-file-marketplace-with-laravel-2023)
+- ✳️ [Build An Uptime Monitor with Inertia](https://codecourse.com/courses/build-an-uptime-monitor-with-inertia)
+
+### Spatie
+
+- ✳️ [Testing Laravel - Learn How to Test Laravel Applications](https://testing-laravel.com)
+- ✳️ [Learn to Create Laravel Packages](https://laravelpackage.training)
+
+### Christoph Rumpel
+
+- ✳️ [Laravel Core Adventures](https://learn.christoph-rumpel.com)
+
+### Stephen Rees-Carter
+
+- ✳️ [Practical Laravel Security](https://practicallaravelsecurity.com)
+
+### Code With Dary
+
+- ✳️ [Mastering Laravel Query Builder, Eloquent & Relationships](https://www.udemy.com/course/mastering-laravel-10-query-builder-eloquent-relationships)
+
+
+---
+
+
+🌟 Enjoyed these handpicked resources? Connect with me on social media (@alnahian2003) for more insights and updates on the wonderful world of Laravel! Don't forget, __the real gem awaits in the Official Laravel Documentation__ – a true treasure trove for your learning journey. 
+
+
+#HappyCoding
