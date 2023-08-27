@@ -1,5 +1,4 @@
-![Pink Red Simple Feminime Group Project Presentation](https://github.com/alnahian2003/learn-laravel/assets/61485238/5a51018c-bcb0-49e1-aebf-93ef68fcc26d)
-
+![Laravel Learning Resources Cover Image](https://github.com/alnahian2003/learn-laravel/assets/61485238/0ca0fed1-a1fe-46f7-aeef-0b9cff4d6871)
 
 # 🎢 Laravel Learning Resources
 
