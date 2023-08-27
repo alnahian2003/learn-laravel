@@ -124,7 +124,16 @@ Discover high-quality premium courses from reputable educators:
 ---
 
 
-🌟 Enjoyed these handpicked resources? Connect with me on social media (@alnahian2003) for more insights and updates on the wonderful world of Laravel! Don't forget, __the real gem awaits in the Official Laravel Documentation__ – a true treasure trove for your learning journey. 
+## Connect with Me
+
+🌟 Enjoyed these handpicked resources? Let's connect on different platforms! Feel free to reach out for more insights and updates on the wonderful world of Laravel.
+
+🐦 **Twitter:** [@alnahian2003](https://twitter.com/alnahian2003)
+🐙 **GitHub:** [@alnahian2003](https://github.com/alnahian2003)
+📘 **Facebook:** [alnahian2003](https://facebook.com/alnahian2003)
+🔗 **dev.to:** [alnahian2003](https://dev.to/alnahian2003)
+
+Don't forget, __the real gem awaits in the [Official Laravel Documentation](https://laravel.com/docs/master/)__ – a true treasure trove for your learning journey. 
 
 
 #HappyCoding
