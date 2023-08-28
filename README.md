@@ -17,6 +17,7 @@ Discover a wealth of resources to embark on your journey to master Laravel. From
 - [📚 E-Books](#-e-books)
 - [💻 Online Learning Platforms](#-online-learning-platforms)
 - [🌟 Premium Courses (Personally Recommended)](#-premium-courses-personal-favorites-)
+- [📣 Follow These Experts on Twitter](#-follow-these-experts-on-twitter)
 </details>
 
 
@@ -25,6 +26,16 @@ Discover a wealth of resources to embark on your journey to master Laravel. From
 ✳️ [Laravel Roadmap Learning Path](https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path)
 
 ✳️ [Laracasts Learning Path](https://laracasts.com/path)
+
+
+
+
+
+---
+
+
+
+
 
 ## 📺 YouTube Channels
 
@@ -47,6 +58,15 @@ Discover a wealth of resources to embark on your journey to master Laravel. From
 - [Megaminds Learning 🇧🇩](https://youtube.com/@MegamindsLearning) (Bengali)
 - [Learn Hunter 🇧🇩](https://youtube.com/@LearnHunter) (Bengali)
 
+
+
+
+---
+
+
+
+
+
 ## 📚 E-Books
 
 📖 Enhance your skills with these insightful e-books:
@@ -66,6 +86,15 @@ Discover a wealth of resources to embark on your journey to master Laravel. From
 - [Domain Driven Design with Laravel by Martin Joo](https://domain-driven-design-laravel.com)
 - [Advanced Inertia by Boris Lepikhin](https://advanced-inertia.com)
 
+
+
+
+---
+
+
+
+
+
 ## 💻 Online Learning Platforms
 
 💻 Enhance your skills with these online learning platforms:
@@ -76,6 +105,14 @@ Discover a wealth of resources to embark on your journey to master Laravel. From
 - [Spatie Courses](https://spatie.be/courses)
 - [Beyond Code Courses](https://beyondco.de/video-courses)
 - [Bitfumes](https://bitfumes.com)
+
+
+
+
+---
+
+
+
 
 ## 🌟 Premium Courses (Personal Favorites 😊) 
 
@@ -126,7 +163,66 @@ Discover high-quality premium courses from reputable educators:
 ### Ahmed Shamim Hasan Shaon
 - ✳️ [Understanding Laravel](https://learning.megaminds.technology/courses/understanding-laravel/details) (Bengali)
 
+
+
+
 ---
+
+
+
+
+## 📣 Follow These Experts on Twitter
+
+Learn from the best in the Laravel community by following these experts on Twitter (alphabetically sorted):
+
+- [Aaron Francis](https://twitter.com/aarondfrancis)
+- [Adam Wathan](https://twitter.com/adamwathan)
+- [Ahmed Shamim Hasan Shaon](https://twitter.com/me_shaon)
+- [Alex Garrett-Smith](https://twitter.com/alexjgarrett)
+- [Andre Madarang](https://twitter.com/drehimself)
+- [Andrew Schmelyun](https://twitter.com/aschmelyun)
+- [Anis Ahmad](https://twitter.com/ajaxray)
+- [Benjamin Crozat](https://twitter.com/benjamincrozat)
+- [Bilal Haidar](https://twitter.com/bhaidar)
+- [Bobby Bouwmann](https://twitter.com/bobbybouwmann)
+- [Boris Lepikhin](https://twitter.com/lepikhinb)
+- [Caleb Porzio](https://twitter.com/calebporzio)
+- [Christoph Rumpel](https://twitter.com/christophrumpel)
+- [Code With Dary](https://twitter.com/codewithdary)
+- [Dries Vints](https://twitter.com/driesvints)
+- [Freek Van der Herten](https://twitter.com/freekmurze)
+- [Gio](https://twitter.com/GioDev8)
+- [James Brooks](https://twitter.com/jbrooksuk)
+- [Jeffrey Way](https://twitter.com/jeffrey_way)
+- [Jonathan Reinik](https://twitter.com/reinink)
+- [Jordan Dalton](https://twitter.com/jordankdalton)
+- [Luke Downing](https://twitter.com/LukeDowning19)
+- [Marcel Pociot](https://twitter.com/marcelpociot)
+- [Martin Joo](https://twitter.com/mmartin_joo)
+- [Mateus Guimarães](https://twitter.com/mateusjatenee)
+- [Matt Stauffer](https://twitter.com/stauffermatt)
+- [Mohamed Said](https://twitter.com/themsaid)
+- [Mohammad Emran](https://twitter.com/phpfour)
+- [Newton Job](https://twitter.com/_newtonjob)
+- [Nuno Maduro](https://twitter.com/enunomaduro)
+- [Paulo Castellano](https://twitter.com/paulocastellano)
+- [Pascal Baljet](https://twitter.com/pascalbaljet)
+- [Povilas Korop](https://twitter.com/PovilasKorop)
+- [Punyapal Shah](https://twitter.com/MrPunyapal)
+- [Spatie](https://twitter.com/spatie_be)
+- [Stefan Bauer](https://twitter.com/stefanbauerme)
+- [Stephen Rees-Carter](https://twitter.com/valorin)
+- [Taylor Otwell](https://twitter.com/taylorotwell)
+- [Tim MacDonald](https://twitter.com/timacdonald87)
+
+
+These experts regularly share insightful tips, tutorials, and updates about Laravel. Make sure to give them a follow for a constant stream of valuable information.
+
+
+
+
+---
+
 
 
 ## Connect with Me
@@ -134,9 +230,13 @@ Discover high-quality premium courses from reputable educators:
 🌟 Enjoyed these handpicked resources? Let's connect on different platforms! Feel free to reach out for more insights and updates on the wonderful world of Laravel.
 
 🐦 **Twitter:** [@alnahian2003](https://twitter.com/alnahian2003)
+
 🐙 **GitHub:** [@alnahian2003](https://github.com/alnahian2003)
+
 📘 **Facebook:** [alnahian2003](https://facebook.com/alnahian2003)
+
 🔗 **dev.to:** [alnahian2003](https://dev.to/alnahian2003)
+
 
 Don't forget, __the real gem awaits in the [Official Laravel Documentation](https://laravel.com/docs/master/)__ – a true treasure trove for your learning journey. 
 
