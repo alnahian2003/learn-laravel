@@ -50,7 +50,7 @@ Discover a wealth of resources to embark on your journey to master Laravel. From
 - [Przemyslaw Przylucki](https://youtube.com/@saaslaravel)
 - [Andre Madarang](https://youtube.com/@drehimself)
 - [PHP Annotated](https://youtube.com/@phpannotated)
-- [The Codeholic](https://youtube.com/@phpannotated)
+- [The Codeholic](https://youtube.com/@TheCodeholic)
 - [Code With Tony](https://youtube.com/@codewithtonyofficial)
 - [Laracasts](https://youtube.com/@Laracastsofficial)
 - [Jordan Dalton](https://youtube.com/@Daltoncast)
