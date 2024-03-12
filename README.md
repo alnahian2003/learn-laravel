@@ -4,22 +4,22 @@
 
 Discover a wealth of resources to embark on your journey to master Laravel. From roadmaps to YouTube channels, and e-books to online courses, this repository is your gateway to self-learning. 🚀
 
->*Allow me to share my exciting Laravel learning journey with you real quick! I started as a self-motivated learner, but the hunt for good resources took some wind out of my sails. I'm no quitter, though!*
+> _Allow me to share my exciting Laravel learning journey with you real quick! I started as a self-motivated learner, but the hunt for good resources took some wind out of my sails. I'm no quitter, though!_
 
->*Now, if you're eyeing Laravel, I've got your back. I've personally selected some top-notch resources just for you. More will follow – No strings attached, no affiliations whatsoever, I promise. Feel free to show some love by ⭐ starring the repo and sharing it with pals. Let's learn and grow together! 🌟*
+> _Now, if you're eyeing Laravel, I've got your back. I've personally selected some top-notch resources just for you. More will follow – No strings attached, no affiliations whatsoever, I promise. Feel free to show some love by ⭐ starring the repo and sharing it with pals. Let's learn and grow together! 🌟_
 
 <details>
 
 <summary><h3>Table of Contents</h3></summary>
-  
+
 - [🛤️ Laravel Learning Roadmaps](#%EF%B8%8F-laravel-learning-roadmaps)
 - [📺 YouTube Channels](#-youtube-channels)
+- [📝 Blogs](#-blogs)
 - [📚 E-Books](#-e-books)
 - [💻 Online Learning Platforms](#-online-learning-platforms)
 - [🌟 Premium Courses (Personally Recommended)](#-premium-courses-personal-favorites-)
 - [📣 Follow These Experts on Twitter](#-follow-these-experts-on-twitter)
 </details>
-
 
 ## 🛤️ Laravel Learning Roadmaps
 
@@ -27,15 +27,7 @@ Discover a wealth of resources to embark on your journey to master Laravel. From
 
 ✳️ [Laracasts Learning Path](https://laracasts.com/path)
 
-
-
-
-
 ---
-
-
-
-
 
 ## 📺 YouTube Channels
 
@@ -58,14 +50,37 @@ Discover a wealth of resources to embark on your journey to master Laravel. From
 - [Megaminds Learning 🇧🇩](https://youtube.com/@MegamindsLearning) (Bengali)
 - [Learn Hunter 🇧🇩](https://youtube.com/@LearnHunter) (Bengali)
 
-
-
-
 ---
 
+## 📝 Blogs
 
+📝 Insightful Blogs to Enhance Your Skills (alphabetically sorted):
 
-
+- [Amit Merchant's Blog](https://amitmerchant.com)
+- [Ash Allen Design](https://ashallendesign.co.uk/blog)
+- [Ahmed Shamim's Blog](https://ahmedshamim.com)
+- [Benjamin Crozat's Blog](https://benjamincrozat.com)
+- [Best of Laravel Articles](https://bestoflaravel.com/articles)
+- [CodeCourse Articles](https://codecourse.com/articles)
+- [Christoph Rumpel's Blog](https://christoph-rumpel.com)
+- [Freek Van der Herten's blog](https://freek.dev)
+- [IT Solution Stuff Articles](https://www.itsolutionstuff.com)
+- [Kai Sassnowski's Blog](https://www.kai-sassnowski.com)
+- [Laravel Article](https://laravelarticle.com/links)
+- [Laravel Daily](https://laraveldaily.com)
+- [Laravel.io Articles](https://laravel.io/articles)
+- [Laravel News Blog](https://laravel-news.com/blog)
+- [Mastering Laravel](https://masteringlaravel.io)
+- [Martin Joo's Blog](https://martinjoo.dev/blog)
+- [Medium Laravel Page](https://medium.com/tag/laravel)
+- [Muhammed Sari's Blog](https://muhammedsari.me)
+- [Oussama Mater's Blog](https://blog.oussama-mater.tech)
+- [Philo's Blog](https://philo.dev)
+- [Securing Laravel Blog](https://securinglaravel.com)
+- [Steve King's Blog](https://juststeveking.uk/articles)
+- [Stitcher.io Articles](https://stitcher.io)
+- [The Laravel Blog](https://blog.laravel.com)
+- [Tim MacDonald's Blog](https://tim.macdonald.au)
 
 ## 📚 E-Books
 
@@ -86,14 +101,7 @@ Discover a wealth of resources to embark on your journey to master Laravel. From
 - [Domain Driven Design with Laravel by Martin Joo](https://domain-driven-design-laravel.com)
 - [Advanced Inertia by Boris Lepikhin](https://advanced-inertia.com)
 
-
-
-
 ---
-
-
-
-
 
 ## 💻 Online Learning Platforms
 
@@ -106,15 +114,9 @@ Discover a wealth of resources to embark on your journey to master Laravel. From
 - [Beyond Code Courses](https://beyondco.de/video-courses)
 - [Bitfumes](https://bitfumes.com)
 
-
-
-
 ---
 
-
-
-
-## 🌟 Premium Courses (Personal Favorites 😊) 
+## 🌟 Premium Courses (Personal Favorites 😊)
 
 Discover high-quality premium courses from reputable educators:
 
@@ -159,17 +161,11 @@ Discover high-quality premium courses from reputable educators:
 
 - ✳️ [Mastering Laravel Query Builder, Eloquent & Relationships](https://www.udemy.com/course/mastering-laravel-10-query-builder-eloquent-relationships)
 
-
 ### Ahmed Shamim Hasan Shaon
+
 - ✳️ [Understanding Laravel](https://learning.megaminds.technology/courses/understanding-laravel/details) (Bengali)
 
-
-
-
 ---
-
-
-
 
 ## 📣 Follow These Experts on Twitter
 
@@ -215,15 +211,9 @@ Learn from the best in the Laravel community by following these experts on Twitt
 - [Taylor Otwell](https://twitter.com/taylorotwell)
 - [Tim MacDonald](https://twitter.com/timacdonald87)
 
-
 These experts regularly share insightful tips, tutorials, and updates about Laravel. Make sure to give them a follow for a constant stream of valuable information.
 
-
-
-
 ---
-
-
 
 ## Connect with Me
 
@@ -237,9 +227,7 @@ These experts regularly share insightful tips, tutorials, and updates about Lara
 
 🔗 **dev.to:** [alnahian2003](https://dev.to/alnahian2003)
 
-
-Don't forget, __the real gem awaits in the [Official Laravel Documentation](https://laravel.com/docs/master/)__ – a true treasure trove for your learning journey. 
-
+Don't forget, **the real gem awaits in the [Official Laravel Documentation](https://laravel.com/docs/master/)** – a true treasure trove for your learning journey.
 
 ---
 
