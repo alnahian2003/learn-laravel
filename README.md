@@ -38,7 +38,7 @@ Discover a wealth of resources to embark on your journey to master Laravel. From
 - [Andrew Schemlyun](https://youtube.com/@aschmelyun)
 - [Code With Dary](https://youtube.com/@codewithdary)
 - [Mohamed Said](https://youtube.com/@themsaid)
-- [Mateus Guimaraes](https://youtube.com/@MateusGuimaraes)
+- [Mateus Guimarães](https://www.youtube.com/c/MateusGuimar%C3%A3es)
 - [Przemyslaw Przylucki](https://youtube.com/@saaslaravel)
 - [Andre Madarang](https://youtube.com/@drehimself)
 - [PHP Annotated](https://youtube.com/@phpannotated)
