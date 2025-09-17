@@ -43,7 +43,7 @@ Discover a wealth of resources to embark on your journey to master Laravel. From
 - [Andre Madarang](https://youtube.com/@drehimself)
 - [PHP Annotated](https://youtube.com/@phpannotated)
 - [The Codeholic](https://youtube.com/@TheCodeholic)
-- [Code With Tony](https://youtube.com/@codewithtonyofficial)
+- [Tony Xhepa](https://www.youtube.com/@tonyxhepaofficial)
 - [Laracasts](https://youtube.com/@Laracastsofficial)
 - [Jordan Dalton](https://youtube.com/@Daltoncast)
 - [Codecourse](https://youtube.com/@codecourse)
