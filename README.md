@@ -18,6 +18,9 @@ Discover a wealth of resources to embark on your journey to master Laravel. From
 - [📚 E-Books](#-e-books)
 - [💻 Online Learning Platforms](#-online-learning-platforms)
 - [🌟 Premium Courses (Personally Recommended)](#-premium-courses-personal-favorites-)
+- [🎧 Podcasts](#podcasts)
+- [📧 Newsletters](#newsletters)
+- [💼 Job Platforms](#job-platforms)
 - [📣 Follow These Experts on Twitter](#-follow-these-experts-on-twitter)
 </details>
 
@@ -100,6 +103,7 @@ Discover a wealth of resources to embark on your journey to master Laravel. From
 - [Test Driven APIs With Laravel and Pest by Martin Joo](https://test-driven-api-laravel.io)
 - [Domain Driven Design with Laravel by Martin Joo](https://domain-driven-design-laravel.com)
 - [Advanced Inertia by Boris Lepikhin](https://advanced-inertia.com)
+- [Inside Laravel by Mohammad Emran Hasan & Ahmed Shamim Hasan Shaon](https://insidelaravelbook.com/)
 
 ---
 
@@ -164,6 +168,42 @@ Discover high-quality premium courses from reputable educators:
 ### Ahmed Shamim Hasan Shaon
 
 - ✳️ [Understanding Laravel](https://learning.megaminds.technology/courses/understanding-laravel/details) (Bengali)
+- ✳️ [Think like a Senior Engineer](https://www.udemy.com/course/think-like-a-senior-engineer/)
+
+---
+
+## <a id="podcasts"></a>🎧 Podcasts
+
+Listen to the latest news, interviews, and discussions in the Laravel ecosystem:
+
+- [The Laravel Podcast](https://laravelpodcast.com/)
+- [Laravel News Podcast](https://podcast.laravel-news.com/)
+- [No Compromises](https://nocompromises.io/podcast)
+
+---
+
+## <a id="newsletters"></a>📧 Newsletters
+
+Stay up to date with a curated list of Laravel resources delivered right to your inbox:
+
+- [Laravel News Newsletter](https://laravel-news.com/newsletter)
+- [Securing Laravel](https://securinglaravel.com/)
+- [Mohammad Emran's Newsletter](https://newsletter.phpfour.com/)
+- [Ahmed Shamim's Newsletter](https://ahmedshamim.com/)
+- [Laravel Daily Newsletter](https://laraveldaily.com/newsletter)
+- [Wojtalak's Newsletter](https://wojtalak.com/newsletter)
+- [The LaraList](https://thelaralist.substack.com/subscribe?simple=true&next=https%3A%2F%2Fthelaralist.substack.com%2F)
+- [PHP Weekly](https://www.phpweekly.com/)
+- [Best of Laravel](https://bestoflaravel.com/)
+
+---
+
+## <a id="job-platforms"></a>💼 Job Platforms
+
+Looking for your next Laravel role? Check out these platforms:
+
+- [LaraJobs](https://larajobs.com/)
+- [DevHubBD](https://devhubbd.com/)
 
 ---
 
@@ -233,3 +273,4 @@ Don't forget, **the real gem awaits in the [Official Laravel Documentation](http
 
 Kindly be advised that the resources provided above are arranged in a randomized manner, without regard to the status or priority of the instructor/educator.
 #HappyCoding
+
