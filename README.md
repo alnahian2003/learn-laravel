@@ -54,6 +54,8 @@ The ultimate curated list of the **best Laravel learning resources** for PHP dev
 - [Codecourse](https://youtube.com/@codecourse)
 - [Megaminds Learning 🇧🇩](https://youtube.com/@MegamindsLearning) (Bengali)
 - [Learn Hunter 🇧🇩](https://youtube.com/@LearnHunter) (Bengali)
+- [Polash Mahmud 🇧🇩](https://www.youtube.com/@polashmahmud4) (Bengali)
+- [Programming with CodeSteps 🇧🇩](https://www.youtube.com/@codestepsbd) (Bengali)
 
 ---
 
